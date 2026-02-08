@@ -1,0 +1,3 @@
+1.复线结果 目前卡在 rl的奖励函数上
+2.sft结果出现 
+3.整体流程： 模型采样 → rollout → reward model / rule → advantage → PPO update
